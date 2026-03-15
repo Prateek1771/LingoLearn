@@ -8,15 +8,15 @@ Built for the [Lingo.dev Hackathon](https://lingo.dev) | Powered by [Lingo.dev S
 
 ## See It In Action
 
-### Full Project Demo
-Watch the complete feature walkthrough and learn how LingoLearn transforms passive video watching into active learning:
-
-**[Watch Full Demo Video](https://youtu.be/E97xhtWxmYY)**
-
 ### Quick Promo
 Get a quick overview of LingoLearn's key features and value proposition:
 
 **[Watch Promo Video](https://youtu.be/A4kRh5K-mSo)**
+
+### Full Project Demo
+Watch the complete feature walkthrough and learn how LingoLearn transforms passive video watching into active learning:
+
+**[Watch Full Demo Video](https://youtu.be/E97xhtWxmYY)**
 
 ---
 
