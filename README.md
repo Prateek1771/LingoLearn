@@ -16,7 +16,7 @@ Watch the complete feature walkthrough and learn how LingoLearn transforms passi
 ### Quick Promo
 Get a quick overview of LingoLearn's key features and value proposition:
 
-**[Watch Promo Video]([https://youtu.be/A4kRh5K-mSo])**
+**[Watch Promo Video](https://youtu.be/A4kRh5K-mSo)**
 
 ---
 
